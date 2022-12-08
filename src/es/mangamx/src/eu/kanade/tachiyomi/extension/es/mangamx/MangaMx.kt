@@ -33,7 +33,7 @@ open class MangaMx : ConfigurableSource, ParsedHttpSource() {
 
     override val name = "MangaMx"
 
-    override val baseUrl = "https://manga-mx.com"
+    override val baseUrl = "https://manga-oni.com"
 
     override val lang = "es"
 
